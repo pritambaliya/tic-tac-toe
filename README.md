@@ -9,4 +9,4 @@ A classic Tic Tac Toe (Noughts and Crosses) game built with pure **HTML**, **CSS
 - 🔄 Reset game functionality
 - 📱 Responsive design
 
-## 📂 Project Structure
+
