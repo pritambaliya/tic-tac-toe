@@ -1,0 +1,85 @@
+body{
+    padding: 0;
+    margin: auto;
+   /* background-color:#4D243D; */
+   background-image: url(ticback.jpg);
+   background-size: cover;
+}
+
+
+
+.main {
+    height: 500px;
+    width: 500px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+    margin: auto;
+    margin-left: 60%;
+    margin-top: 110px;
+}
+
+.box {
+    width: 162px;
+    height: 162px;
+    font-size: 90px;
+    text-align: center;
+    color: red;
+    background: transparent;
+    border: 4px solid #66C0C6;
+}
+
+.restart{
+    padding: 10px 30px;
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 54%;
+    border-radius: 5px;
+    background-color: #66C0C6;
+}
+
+.restart:hover {
+    background-color: #3f7478
+}
+
+.new {
+    padding: 10px 30px;
+    font-size: 19px;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-color: #66C0C6;
+}
+
+.new:hover {
+    background-color: #3f7478
+}
+
+.win {
+    text-align: center;
+    padding: 20px;
+    color: #ccc;
+    margin: auto;
+    margin-bottom: 100vh;
+    margin-top: 30vh;
+    background-image: url(ticback.jpg);
+   background-size: cover;
+}
+
+.hide {
+    display: none;
+}
+
+.heading {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    position: fixed;
+    top: 10px;
+    left: 40%;
+    border-bottom: 5px solid #ccc;
+}
+
+.h1 {
+    font-size: 70px;
+    color: #6ed3fc;
+}
