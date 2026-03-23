@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game
 
-A classic Tic Tac Toe (Noughts and Crosses) game built with pure **HTML**, **CSS**, and **JavaScript**. Playable by two players on the same screen, featuring real-time turn switching, win/draw detection, and a reset button.
+A classic Tic Tac Toe (Noughts and Crosses) game built with pure **HTML**, **CSS**, and **JavaScript**. Playable by two players on the same screen, featuring real-time turn switching, win/draw detection, and a reset button.Fully responsive.
 
 ## 🚀 Features
 - 🔁 Two-player mode
